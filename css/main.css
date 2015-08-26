@@ -1,0 +1,15 @@
+#main-container{
+	margin-top: 20px;
+}
+
+.typeTask{
+	margin-right: 20px;
+	width: 22%;
+	display: inline-table;
+	float: left;
+	 
+}
+
+.glyphicon{
+	margin-left: 9px;
+}
